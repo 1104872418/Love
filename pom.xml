@@ -3,7 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.love</groupId>
   <artifactId>Love</artifactId>
-  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>Love Maven Webapp</name>
   <url>http://maven.apache.org</url>
